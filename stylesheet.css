@@ -19,7 +19,7 @@ body {
 /* Style for the header */
 header {
     background-color: #4CAF50;
-    color: rgb(0, 0, 0);
+    color: white;
     padding: 20px;
     text-align: center;
 }
@@ -48,8 +48,8 @@ a:hover {
     border-radius: 8px;
 }
 
-/* Style for the project links using the ID #project-link */
-#project-link {
+/* Style for the hobby links using the ID #hobby-link */
+#hobby-link {
     font-weight: bold;
 }
 
