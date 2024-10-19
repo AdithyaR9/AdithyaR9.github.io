@@ -1,0 +1,63 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for content sections using the class .content-section */
+.content-section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+/* Style for the header */
+header {
+    background-color: #4CAF50;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+/* Highlighted text using the class .text-highlight */
+.text-highlight {
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+/* Style for links and hover effect */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2980b9;
+}
+
+/* Style for the image */
+.image-frame {
+    width: 100%;
+    max-width: 600px;
+    border: 5px solid #ddd;
+    border-radius: 8px;
+}
+
+/* Style for the project links using the ID #project-link */
+#project-link {
+    font-weight: bold;
+}
+
+/* Change box model properties of links */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
